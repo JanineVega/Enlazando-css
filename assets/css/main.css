@@ -1,0 +1,16 @@
+body{
+  background:#FA8072;
+  font-family: "Helvetica";
+}
+
+.control-form{
+  width: 100%;
+  padding: 0,33em;
+  font-size: 25px;
+  border: 0;
+  font-weight: 300;
+}
+
+.modulo{
+  text-align: center;
+}
